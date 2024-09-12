@@ -21,6 +21,14 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
+### ✉️ Contact
+<div>
+  <a href="mailto:seungbinjeon828@gmail.com">
+    <img src="https://img.shields.io/badge/seungbinjeon828@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+
 ### 📊 Stats
 
 <div align="center">
